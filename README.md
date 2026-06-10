@@ -38,6 +38,6 @@ Passionate about building mobile and web applications using modern technologies.
 
 ### Connect With Me
 
-* LinkedIn : https://www.linkedin.com/posts/charishma-sureddi-263940367_internship-fullstackdevelopment-webdevelopment-share-7465602813872586752-VOm9/?utm_source=share&utm_medium=member_android&rcm=ACoAAFsV4WsB00bFJqmU4xpW3BaKJBm7t8CWlAc
+* LinkedIn :https://www.linkedin.com/in/charishma-sureddi-263940367?utm_source=share_via&utm_content=profile&utm_medium=member_android
 * GitHub : https://github.com/charishmasureddi-web
 * Email : charishmasureddi@gmail.com
